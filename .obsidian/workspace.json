@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb6d3597ea15df87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f49563ae46902a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "pinned": true,
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
+            "id": "83a58a0a6df4a748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3296d4c15280e69d",
+    "type": "split",
+    "children": [
+      {
+        "id": "08296976e16d1b21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078f1568e0e64d27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "603d7bb1538536c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa0d3dbd5f581c45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d302804805cebf5a",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a9bee6720477b967",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a2d96712c1065d10",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa456a7b93ee47f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71b82049dd9f51ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "7da8de1fd7916df9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8546f95b58d18dc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "1149c53c22272b9a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1c99f1f1d7fbccba",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
+      "dbfolder:Create a new database table": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "83a58a0a6df4a748",
+  "lastOpenFiles": [
+    "inbox/01IntroductionThese.md",
+    "README.md",
+    "LICENSE",
+    "inbox/dataview_playground.md",
+    "tasks/daily/20250716.md",
+    "tasks/weekly/Untitled.md",
+    "templates/temporal/weekly.md",
+    "templates/input/import_web_page.md",
+    "inbox/robertsMasteringCompositionTechniques2008.md",
+    "inbox/qureshiGuidelinesUseHydroxycarbamide2018.md",
+    "templates/input/import_book.md",
+    "templates/input/import_article.md",
+    "templates/input",
+    "templates/Untitled.md",
+    "templates/temporal",
+    "templates",
+    "index",
+    "tasks/yearly",
+    "tasks/quarterly",
+    "tasks/monthly",
+    "tasks/weekly",
+    "tasks/daily"
+  ]
+}

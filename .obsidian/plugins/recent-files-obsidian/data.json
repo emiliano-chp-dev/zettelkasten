@@ -1,0 +1,28 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "weekly",
+      "path": "templates/temporal/weekly.md"
+    },
+    {
+      "basename": "import_web_page",
+      "path": "templates/input/import_web_page.md"
+    },
+    {
+      "basename": "import_book",
+      "path": "templates/input/import_book.md"
+    },
+    {
+      "basename": "import_article",
+      "path": "templates/input/import_article.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

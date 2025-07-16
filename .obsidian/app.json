@@ -1,0 +1,15 @@
+{
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "propertiesInDocument": "hidden",
+  "foldHeading": true,
+  "showLineNumber": true,
+  "vimMode": true,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments"
+}

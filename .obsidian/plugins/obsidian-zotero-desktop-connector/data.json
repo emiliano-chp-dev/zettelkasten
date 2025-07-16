@@ -1,0 +1,42 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "inbox",
+  "pdfExportImageDPI": 72,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "IEEE",
+      "format": "pandoc"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import web page",
+      "outputPathTemplate": "inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "attachments/zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "templates/input/import_web_page.md",
+      "cslStyle": "IEEE"
+    },
+    {
+      "name": "Import article",
+      "outputPathTemplate": "inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "attachments/zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "templates/input/import_article.md",
+      "cslStyle": "ieee"
+    },
+    {
+      "name": "Import book",
+      "outputPathTemplate": "inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "attachments/zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "templates/input/import_book.md",
+      "cslStyle": "IEEE"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}
